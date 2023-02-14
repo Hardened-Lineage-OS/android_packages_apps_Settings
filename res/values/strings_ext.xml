@@ -80,4 +80,7 @@ Duress PIN works the same way duress password does."</string>
         mode will be delayed until the port is disconnected. The same behavior applies to pogo pins.
     </string>
 
+    <string name="auto_reboot_title">Auto reboot</string>
+    <string name="auto_reboot_footer">Automatically reboot the device if it hasn\'t been unlocked within the selected duration of time.</string>
+
 </resources>
