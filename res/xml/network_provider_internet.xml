@@ -119,4 +119,11 @@
         android:summary="@string/cellular_security_summary"
         android:order="30"
         settings:controller="com.android.settings.network.CellularSecurityPreferenceController"/>
+    
+    <Preference
+        android:key="widevine_provisioning_settings"
+        android:title="@string/widevine_provisioning_title"
+        android:order="40"
+        settings:controller="com.android.settings.network.WidevineProvisioningPrefController" />
+
 </PreferenceScreen>

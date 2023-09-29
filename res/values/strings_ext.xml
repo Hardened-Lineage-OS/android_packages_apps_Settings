@@ -83,4 +83,9 @@ Duress PIN works the same way duress password does."</string>
     <string name="auto_reboot_title">Auto reboot</string>
     <string name="auto_reboot_footer">Automatically reboot the device if it hasn\'t been unlocked within the selected duration of time.</string>
 
-</resources>
+    <string name="widevine_provisioning_title">Widevine provisioning</string>
+    <string name="widevine_provisioning_enabled_grapheneos_proxy">GrapheneOS proxy</string>
+    <string name="widevine_provisioning_enabled_google_server">Google server</string>
+    <string name="widevine_provisioning_footer">The provisioned certificate will be used for accessing DRM protected content.</string>
+
+  </resources>
